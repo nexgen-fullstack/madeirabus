@@ -1,0 +1,2 @@
+const __vite__mapDeps=(i,m=__vite__mapDeps,d=(m.f||(m.f=["./web-CanhAOxs.js","./dist-C6krK8z2.js"])))=>i.map(i=>d[i]);
+import{p as e}from"./index-DXT6Z-Rl.js";import{registerPlugin as t}from"./dist-C6krK8z2.js";var n=t(`KeepAwake`,{web:()=>e(()=>import(`./web-CanhAOxs.js`).then(e=>new e.KeepAwakeWeb),__vite__mapDeps([0,1]),import.meta.url)});export{n as KeepAwake};
